@@ -1,0 +1,1 @@
+This project is a practice exercise for building fundamental HTML skills. The website consists of a main index page that links out to individual recipe pages. While the site won't be visually polished yet, the goal is to write clean, well-structured HTML — which will later be styled with CSS.
